@@ -1,0 +1,10 @@
+## team-task-manager
+fastapi
+uvicorn[standard]
+sqlmodel
+python-jose[cryptography]
+pwdlib[argon2]
+python-multipart
+python-dotenv
+streamlit
+requests
